@@ -1,0 +1,2 @@
+# Requires: impossible-postponement
+# (Not available on PyPI)
